@@ -1,6 +1,6 @@
 Talent Network app
 -------------------------------------------------------------------------------------------------------
-The TalentNetwork is a web API application that provides users with access to Suppliers, employees, subcontractors data.
+The TalentNetwork is a web  application that provides users with access to Suppliers, employees, subcontractors data.
 
 the APplication allows users to search for workers by name , category & more users data. this application is kind of Social Media it also allows Admin to access, create, edit & delete users.
 
