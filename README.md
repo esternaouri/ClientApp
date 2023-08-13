@@ -13,7 +13,8 @@ To run the application:
 * Clone this repository to your local machine.
 * Open a terminal in the project directory.
 * Run npm install to install the project's dependencies:
-* cd to src and than:
+
+ cd to src and than:
 * npm install 
 * npm install axios 
 -----------------------------------------------------------------------------------------------------------
