@@ -8,7 +8,7 @@ the backend application can be find here : https://github.com/esternaouri/Talent
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Installation
-To run the application, you will need to have the following software installed on your computer:
+To run the application:
 
 * Clone this repository to your local machine.
 * Open a terminal in the project directory.
