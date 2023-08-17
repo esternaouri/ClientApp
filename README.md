@@ -1,8 +1,14 @@
 Talent Network app
 -------------------------------------------------------------------------------------------------------
-The TalentNetwork is a web  application that provides users with access to Suppliers, employees, subcontractors data.
+ TalentNetwork is a web application. It is a social network for finding employees and suppliers
+Each user could add information about himself and receive information about other users
 
-the APplication allows users to search for workers by name , category & more users data. this application is kind of Social Media it also allows Admin to access, create, edit & delete users.
+Basic data, project data and FAQ can be added
+
+You can manage your own profile and perform CRUD operations
+In order to enter the general list of data, basic details must be entered.
+
+If you use as an administrator - you can manage the users and reset their passwords
 
 the backend application can be find here : https://github.com/esternaouri/TalentNetwork
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
