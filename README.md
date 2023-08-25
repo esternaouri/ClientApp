@@ -9,8 +9,9 @@ You can manage your own profile and perform CRUD operations
 In order to enter the general list of data, basic details must be entered.
 
 If you use as an administrator - you can manage the users and reset their passwords
-FOR TESTING - USERNAME 1, PASWORD 1111
-FOR ADMING - USERNAME 11, PASWORD 1111
+
+- FOR TESTING - USERNAME 1, PASWORD 1111
+- FOR ADMING - USERNAME 11, PASWORD 1111
 
 the backend application can be find here : https://github.com/esternaouri/TalentNetwork
 
