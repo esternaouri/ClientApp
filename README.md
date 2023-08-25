@@ -13,6 +13,8 @@ If you use as an administrator - you can manage the users and reset their passwo
 the backend application can be find here : https://github.com/esternaouri/TalentNetwork
 
 demo video : https://clipchamp.com/watch/ZuTIbMmywa2
+FOR TESTING - USERNAME 1, PASWORD 1111
+FOR ADMING - USERNAME 11, PASWORD 1111
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Installation
